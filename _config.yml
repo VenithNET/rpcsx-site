@@ -3,11 +3,10 @@
 defaults:
   -
     scope:
-      path: ""
+      path: "/rpcsx-site"
     values:
       layout: "default"
       scripts:
-      baseurl: "/rpcsx-site" # the subpath of your site, e.g. "/blog"
 kramdown:
   auto_ids: true
   parse_block_html: true
