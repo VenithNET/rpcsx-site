@@ -3,7 +3,7 @@
 defaults:
   -
     scope:
-      path: "/rpcsx-site"
+      path: ""
     values:
       layout: "default"
       scripts:
