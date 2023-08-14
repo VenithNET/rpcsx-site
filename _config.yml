@@ -7,7 +7,7 @@ defaults:
     values:
       layout: "default"
       scripts:
-
+      baseurl: "/rpcsx-site" # the subpath of your site, e.g. "/blog"
 kramdown:
   auto_ids: true
   parse_block_html: true
@@ -29,4 +29,3 @@ youtube: https://www.youtube.com/wiilink
 # Special case to avoid duplication.
 info: <i class="mdi mdi-help-circle"></i> FAQ
 oldnews: <i class="mdi mdi-alert-circle"></i> Old News (May be outdated)
-baseurl: "/rpcsx-site" # the subpath of your site, e.g. "/blog"
